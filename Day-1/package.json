@@ -1,0 +1,9 @@
+{
+  "name": "web-dev-3-day-1",
+  "version": "1.0.0",
+  "description": "Web Dev 3 Day 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
